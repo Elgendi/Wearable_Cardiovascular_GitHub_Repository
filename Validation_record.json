@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-19",
+  "format": {
+    "main_text_approximate_words": 5175,
+    "abstract_words": 143,
+    "synopsis_approximate_words": 959,
+    "figures": 5,
+    "tables": 2,
+    "cited_references": 25,
+    "journal_guidance_checked": "2026-09-19",
+    "main_text_limit": "4000-8000",
+    "abstract_limit": 175,
+    "display_item_limit": 8,
+    "word_count_method": "Approximate source count excluding abstract, displayed equations, inline math, citations, cross-references and section headings."
+  },
+  "pdfs": {
+    "manuscript": {
+      "pages": 22,
+      "bytes": 801193,
+      "sha256": "bd2b0fffdbdca74559cf8b87fd72f105eddaaa126a32bd75733a590c119d1222",
+      "layout_warnings": []
+    },
+    "supplement": {
+      "pages": 13,
+      "bytes": 364835,
+      "sha256": "8ae8881e1a19c819cebb7dcb224a56435e4f193200615b9615ff09e4ae4c90aa",
+      "layout_warnings": []
+    },
+    "presubmission_enquiry": {
+      "pages": 8,
+      "bytes": 632008,
+      "sha256": "dbffc42b365ab25183149928de11826be858bccd5d7b660d2d33dfa251c24f1c",
+      "layout_warnings": []
+    },
+    "cover_letter": {
+      "pages": 1,
+      "bytes": 78945,
+      "sha256": "cf4af098152c2fbfeba21eb8b21001f807b9fde138c2b3a44d357facb51f646c",
+      "layout_warnings": []
+    }
+  },
+  "numerical_checks": "Full python code/run_all.py passed: AF input hashes, published duration partition, exhaustive short-mask verification, independent interval fixtures, exact schedule coverage, burden containment, status partition, claim-check unknown-state cases, PPG feature hash and estimation/selection decomposition.",
+  "ppg_raw_inputs": {
+    "files": 201,
+    "bytes": 438095841,
+    "all_verified_against_publisher_SHA256": true,
+    "recordings": 66,
+    "participants": 22,
+    "epochs": 3207,
+    "reference_assessable_epochs": 3159,
+    "original_waveforms_processed": true,
+    "trained_model": false
+  },
+  "af_primary_comparison": "5-minute and 30-minute on/off schedules; each can meet 120 seconds, with 60 distinct relative phases; n=87 episodes in 15 eligible records; all 19 records remain in inventory.",
+  "figure1_sha256": "dcec738929acbbf142fa62f209c1f1961ee83946cf8b3e13f7f480a5f56a148e",
+  "figure1_unchanged_from_upload": true,
+  "visual_review": "All main, supplementary and enquiry pages inspected in rendered contact sheets; principal figures, new tables, complete patient table and cover letter checked at larger scale. Patient table kept intact on one page.",
+  "human_author_verification": "Not performed or claimed. Authors retain final responsibility for scientific interpretation, roles and declarations.",
+  "clinical_validation": "Not claimed; measured-signal example is a fixed retrospective research pipeline and AF schedules are imposed."
+}

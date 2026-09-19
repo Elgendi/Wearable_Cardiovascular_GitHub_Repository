@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and the original datasets when using these materials."
+title: "Wearable cardiovascular accuracy must account for unobserved time"
+type: software
+authors:
+  - family-names: Elgendi
+    given-names: Mohamed
+  - family-names: Chierico
+    given-names: Pietro
+  - family-names: Rieta
+    given-names: Jose J.
+  - family-names: Fletcher
+    given-names: Richard Ribon
+  - family-names: Allen
+    given-names: John
+  - family-names: Alian
+    given-names: Aymen
+  - family-names: Dunn
+    given-names: Jessilyn
